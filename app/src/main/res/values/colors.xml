@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="text_color">#aadd00</color>
+    <color name="text_background_color">#3F51B5</color>
+    <color name="activity_main_color">#009977</color>
+    <color name="nav_menu_color">#333333</color>
+    <color name="c_6E6E6E">#6E6E6E</color>
+    <color name="app_bar_main_color">#ffffff</color>
+
+    <color name="nav_menu_select_color" >#303F9F</color>
+    <color name="nav_menu_un_select_color" >#6E6E6E</color>
+    <color name="navigation_bg_color">#ffffff</color>
+    <color name="fffbeb">#fffbeb</color>
+    <color name="activity_select_theme_bg">#f5f5f5</color>
+    <color name="list_view_item_tv_color">#3F51B5</color>
+    <color name="list_view_item_tv_bg_color">#009977</color>
+</resources>
